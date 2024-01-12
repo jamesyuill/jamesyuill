@@ -1,9 +1,6 @@
 ### Hello 👋, I'm James
 
-<!--
-**jamesyuill/jamesyuill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Junior Software Developer
 
 - 🔭 I'm currently working on: **An Etsy to Instagram Web Scraper**
 - 🌱 I’m currently fleshing out my knowledge of **Typescript**
