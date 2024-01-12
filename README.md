@@ -7,5 +7,13 @@
 - 💬 Ask me about **Music or 3D graphics**
 - ⚡ Fun fact: I once supported Timbaland at the launch of the mini countryman
 
-### Contact me:
+
+
+
+**Contact me:**
+
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jamesyuill)
+
+[:globe_with_meridians: Portfolio](https://developer.jamesyuill.com/)
+
+
