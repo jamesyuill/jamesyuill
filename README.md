@@ -2,8 +2,8 @@
 
 **Junior Software Developer**
 
-- 🔭 I'm currently working on: **An Etsy to Instagram Web Scraper**
-- 🌱 I’m currently fleshing out my knowledge of **Typescript**
+- 🔭 I'm currently working on: **Learning Python**
+- 🌱 I’m currently fleshing out a Trello style app in **Next / Typescript**
 - 💬 Ask me about **Music or 3D graphics**
 - ⚡ Fun fact: I once supported Timbaland at the launch of the mini countryman
 
